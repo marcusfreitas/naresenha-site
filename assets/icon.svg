@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="183 106 880 880">
+<title>Na Resenha icon</title>
+<defs><linearGradient id="brand" x1="420" y1="290" x2="800" y2="760" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#FF8F2E"/><stop offset="0.5" stop-color="#F5333F"/><stop offset="1" stop-color="#F00A7C"/></linearGradient></defs>
+<g id="mark" fill="url(#brand)"><path fill-rule="evenodd" d="M458.5 666.8A235 235 0 1 1 787.5 666.8L634.4 816.8Q623 828 611.6 816.8ZM754.8 591.6A172 155 0 1 0 667.5 641.7L710.9 675.4Q722 684 726.7 670.8Z"/><path d="M546 430a46 46 0 1 0 92 0a46 46 0 1 0 -92 0Z"/><path d="M508 582A84 84 0 0 1 676 582A12 12 0 0 1 664 594H520A12 12 0 0 1 508 582Z"/><path d="M668 484a30 30 0 1 0 60 0a30 30 0 1 0 -60 0Z"/><path d="M678.5 540.3A46 46 0 0 1 744 582A12 12 0 0 1 732 594H687.25A96 96 0 0 0 678.5 540.3Z"/></g>
+</svg>
